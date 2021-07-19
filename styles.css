@@ -1,0 +1,59 @@
+.section-title h2{
+  top: 550px;  
+  position: absolute;
+  color: white;
+  padding: 0vw 31vw;
+  font-size: 50px;
+}
+
+nav ul .nav-item{
+  padding: 0px 15px;
+}
+.section-title h3{
+    top: 625px;  
+    position: absolute;
+    color: white;
+    padding: 0vw 37vw;
+    font-size: 20px;
+    justify-content: space-between;
+  }
+
+.section-title p {
+  font-size: 33px;
+  font-weight: 500;
+  padding: 25px;
+  line-height: 1px;
+  margin: 45px 0px 0px 56px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #aaaaaa;
+  font-family: "Poppins", sans-serif;
+  }
+  
+  .section-title p::after {
+    content: "";
+    width: 170px;
+    height: 1px;
+    display: inline-block;
+    background: #f38b74;
+    margin: 10px 10px;
+  }
+ 
+.container{
+    padding: 25px 100px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.conta{
+  padding: 35px 75px;
+}
+.table{
+  border-color: black;
+}
+
+footer{
+  display: flex;
+  padding-bottom: 20px;
+  justify-content: space-evenly;
+}
