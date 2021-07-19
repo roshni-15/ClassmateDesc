@@ -2,7 +2,7 @@
   top: 550px;  
   position: absolute;
   color: white;
-  padding: 0vw 31vw;
+  padding: 0vw 30vw;
   font-size: 50px;
 }
 
@@ -13,7 +13,7 @@ nav ul .nav-item{
     top: 625px;  
     position: absolute;
     color: white;
-    padding: 0vw 37vw;
+    padding: 0vw 36vw;
     font-size: 20px;
     justify-content: space-between;
   }
